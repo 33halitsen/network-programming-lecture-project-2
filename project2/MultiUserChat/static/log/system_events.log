@@ -1,0 +1,132 @@
+[2025-11-20 13:26:40] [SERVER]: Server shutting down...
+[2025-11-20 13:26:40] [DISCONNECT]: User halit disconnected.
+[2025-11-20 13:26:40] [DISCONNECT]: Client halit removed from active list.
+[2025-11-20 13:26:40] [DISCONNECT]: User bassar disconnected.
+[2025-11-20 13:26:40] [DISCONNECT]: Client bassar removed from active list.
+[2025-11-20 13:26:43] [WEB]: WebSocket Server starting on port 8001
+[2025-11-20 13:26:43] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-20 13:26:43] [WEB]: HTTP Server listening on port 8000
+[2025-11-20 13:27:00] [WEBSOCKET]: New connection from ('127.0.0.1', 60730)
+[2025-11-20 13:27:00] [WEBSOCKET_AUTH]: Client authenticated successfully.
+[2025-11-20 13:27:19] [CONNECT]: Attempting connection from 127.0.0.1:60731
+[2025-11-20 13:27:25] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-20 13:27:34] [CONNECT]: Attempting connection from 127.0.0.1:60733
+[2025-11-20 13:27:39] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-20 13:34:41] [WEBSOCKET]: Connection closed.
+[2025-11-21 09:02:45] [SERVER]: Server shutting down...
+[2025-11-21 09:02:45] [DISCONNECT]: User halit disconnected.
+[2025-11-21 09:02:45] [DISCONNECT]: Client halit removed from active list.
+[2025-11-21 09:02:45] [DISCONNECT]: User bassar disconnected.
+[2025-11-21 09:02:45] [DISCONNECT]: Client bassar removed from active list.
+[2025-11-21 09:02:57] [WEB]: WebSocket Server starting on port 8001
+[2025-11-21 09:02:57] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-21 09:02:57] [WEB]: HTTP Server listening on port 8000
+[2025-11-21 09:03:02] [WEBSOCKET]: New connection from ('127.0.0.1', 61648)
+[2025-11-21 09:03:02] [WEBSOCKET_AUTH]: Client authenticated successfully.
+[2025-11-21 09:03:15] [CONNECT]: Attempting connection from 127.0.0.1:61649
+[2025-11-21 09:03:21] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-21 09:03:28] [CONNECT]: Attempting connection from 127.0.0.1:61651
+[2025-11-21 09:03:34] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-21 09:04:03] [PUBLIC_MSG]: <bassar>: hello
+[2025-11-21 09:04:28] [PUBLIC_MSG]: <bassar>: hello
+[2025-11-21 09:04:53] [SERVER]: Server shutting down...
+[2025-11-21 09:04:53] [DISCONNECT]: User halit disconnected.
+[2025-11-21 09:04:53] [DISCONNECT]: Client halit removed from active list.
+[2025-11-21 09:04:53] [DISCONNECT]: User bassar disconnected.
+[2025-11-21 09:04:53] [DISCONNECT]: Client bassar removed from active list.
+[2025-11-21 09:31:59] [WEB]: WebSocket Server starting on port 8001
+[2025-11-21 09:31:59] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-21 09:31:59] [WEB]: HTTP Server listening on port 8000
+[2025-11-21 09:32:02] [CONNECT]: Attempting connection from 127.0.0.1:61684
+[2025-11-21 09:32:08] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-21 09:32:13] [PUBLIC_MSG]: <halit>: hello
+[2025-11-21 09:32:18] [CONNECT]: Attempting connection from 127.0.0.1:61685
+[2025-11-21 09:32:25] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-21 09:32:28] [PUBLIC_MSG]: <bassar>: hello
+[2025-11-21 09:32:35] [DISCONNECT]: Client bassar removed from active list.
+[2025-11-21 09:32:35] [DISCONNECT]: User bassar disconnected.
+[2025-11-21 09:32:43] [DISCONNECT]: User halit disconnected.
+[2025-11-21 09:33:01] [CONNECT]: Attempting connection from 127.0.0.1:61686
+[2025-11-21 09:33:06] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-21 09:33:06] [ERROR]: Failed to send data to halit: [Errno 32] Broken pipe
+[2025-11-21 09:33:06] [ERROR]: Failed to send data to halit: [Errno 32] Broken pipe
+[2025-11-21 09:33:14] [CONNECT]: Attempting connection from 127.0.0.1:61687
+[2025-11-21 09:33:35] [SERVER]: Server shutting down...
+[2025-11-21 09:33:35] [DISCONNECT]: User bassar disconnected.
+[2025-11-21 09:33:35] [ERROR]: Failed to send data to halit: [Errno 32] Broken pipe
+[2025-11-21 09:33:35] [ERROR]: Failed to send data to halit: [Errno 32] Broken pipe
+[2025-11-21 09:33:35] [ERROR]: Failed to send data to halit: [Errno 32] Broken pipe
+[2025-11-21 09:33:35] [DISCONNECT]: Client bassar removed from active list.
+[2025-11-21 09:33:38] [WEB]: WebSocket Server starting on port 8001
+[2025-11-21 09:33:38] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-21 09:33:38] [WEB]: HTTP Server listening on port 8000
+[2025-11-21 09:33:44] [CONNECT]: Attempting connection from 127.0.0.1:61688
+[2025-11-21 09:33:50] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-21 09:33:54] [CONNECT]: Attempting connection from 127.0.0.1:61689
+[2025-11-21 09:33:59] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-21 09:45:12] [SERVER]: Server shutting down...
+[2025-11-21 09:45:12] [DISCONNECT]: User bassar disconnected.
+[2025-11-21 09:45:12] [DISCONNECT]: Client bassar removed from active list.
+[2025-11-21 09:45:12] [DISCONNECT]: Client halit removed from active list.
+[2025-11-21 09:45:12] [DISCONNECT]: User halit disconnected.
+[2025-11-21 09:45:34] [WEB]: WebSocket Server starting on port 8001
+[2025-11-21 09:45:34] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-21 09:45:34] [WEB]: HTTP Server listening on port 8000
+[2025-11-21 09:45:38] [CONNECT]: Attempting connection from 127.0.0.1:61709
+[2025-11-21 09:45:43] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-21 09:45:52] [CONNECT]: Attempting connection from 127.0.0.1:61710
+[2025-11-21 09:45:56] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-21 09:46:03] [PUBLIC_MSG]: <bassar>: hello
+[2025-11-21 09:46:06] [PUBLIC_MSG]: <bassar>: hello
+[2025-11-21 09:46:48] [PUBLIC_MSG]: <bassar>: hello
+[2025-11-21 09:46:52] [PUBLIC_MSG]: <halit>: hello
+[2025-11-21 09:46:55] [PUBLIC_MSG]: <halit>: hello
+[2025-11-21 09:48:33] [DISCONNECT]: User bassar disconnected.
+[2025-11-21 09:48:41] [DISCONNECT]: User halit disconnected.
+[2025-11-21 09:48:57] [CONNECT]: Attempting connection from 127.0.0.1:61711
+[2025-11-21 09:49:26] [CONNECT]: Attempting connection from 127.0.0.1:61712
+[2025-11-21 10:06:59] [SERVER]: Server shutting down...
+[2025-11-21 10:18:48] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-21 10:18:48] [WEB]: HTTP Server listening on port 8000
+[2025-11-21 10:18:51] [SERVER]: Server shutting down...
+[2025-11-21 10:19:47] [WEB]: WebSocket Server starting on port 8001
+[2025-11-21 10:19:47] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-21 10:19:47] [WEB]: HTTP Server listening on port 8000
+[2025-11-21 10:19:50] [CONNECT]: Attempting connection from 127.0.0.1:61734
+[2025-11-21 10:19:55] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-21 10:20:02] [CONNECT]: Attempting connection from 127.0.0.1:61735
+[2025-11-21 10:20:08] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-21 10:20:14] [PUBLIC_MSG]: <bassar>: hello
+[2025-11-21 10:20:32] [WEBSOCKET]: New connection from ('127.0.0.1', 61741)
+[2025-11-21 10:20:32] [WEBSOCKET_AUTH]: Client authenticated successfully.
+[2025-11-21 10:20:38] [PUBLIC_MSG]: <halit>: hello
+[2025-11-21 10:21:09] [PUBLIC_MSG]: <halit>: hello
+[2025-11-21 10:21:18] [DISCONNECT]: User halit disconnected.
+[2025-11-21 10:21:21] [CONNECT]: Attempting connection from 127.0.0.1:61742
+[2025-11-21 10:21:44] [DISCONNECT]: User bassar disconnected.
+[2025-11-21 10:21:47] [CONNECT]: Attempting connection from 127.0.0.1:61744
+[2025-11-21 10:27:31] [SERVER]: Server shutting down...
+[2025-11-21 10:27:38] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-21 10:27:38] [WEB]: WebSocket Server starting on port 8001
+[2025-11-21 10:27:38] [WEB]: HTTP Server listening on port 8000
+[2025-11-21 10:27:41] [WEBSOCKET]: New connection from ('127.0.0.1', 61754)
+[2025-11-21 10:27:41] [WEBSOCKET_AUTH]: Client authenticated successfully.
+[2025-11-21 10:27:45] [CONNECT]: Attempting connection from 127.0.0.1:61755
+[2025-11-21 10:27:49] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-21 10:27:53] [DISCONNECT]: User halit disconnected.
+[2025-11-21 10:27:56] [CONNECT]: Attempting connection from 127.0.0.1:61756
+[2025-11-21 10:28:43] [CONNECT]: Attempting connection from 127.0.0.1:61757
+[2025-11-21 10:33:19] [SERVER]: Server shutting down...
+[2025-11-21 10:34:44] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-21 10:34:44] [WEB]: WebSocket Server starting on port 8001
+[2025-11-21 10:34:44] [WEB]: HTTP Server listening on port 8000
+[2025-11-21 10:34:48] [CONNECT]: Attempting connection from 127.0.0.1:61766
+[2025-11-21 10:34:54] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-21 10:34:58] [DISCONNECT]: User halit disconnected.
+[2025-11-21 10:35:01] [CONNECT]: Attempting connection from 127.0.0.1:61767
+[2025-11-21 10:35:04] [WARN]: Nickname 'halit' is already active. Forcing cleanup for new login.
+[2025-11-21 10:35:04] [DISCONNECT]: Client halit removed from active list.
+[2025-11-21 10:35:04] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-21 10:35:11] [DISCONNECT]: Client halit removed from active list.
+[2025-11-21 10:35:11] [DISCONNECT]: User halit disconnected.
+[2025-11-21 10:35:12] [SERVER]: Server shutting down...

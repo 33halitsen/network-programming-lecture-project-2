@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Chat Server Live Log Console</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 20px;
+        }
+
+        #auth {
+            margin-bottom: 20px;
+            padding: 15px;
+            border: 1px solid #ccc;
+            background-color: #fff;
+        }
+
+        #log-container {
+            border: 1px solid #1c881c;
+            padding: 10px;
+            height: 600px;
+            overflow-y: scroll;
+            background-color: #111;
+            color: #0f0;
+            font-family: monospace;
+        }
+
+        .log-entry {
+            margin-bottom: 2px;
+        }
+
+        .log-entry.ERROR {
+            color: #f00;
+            font-weight: bold;
+        }
+
+        .log-entry.LOGIN,
+        .log-entry.DISCONNECT {
+            color: #fff000;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Chat Server Live Log Console</h1>
+
+    <div id="auth">
+        <p>Status: <span id="status">Disconnected</span></p>
+        <input type="password" id="password" placeholder="Enter Admin Password">
+        <button onclick="connectWebSocket()">Connect & Stream Logs</button>
+        <button onclick="disconnectWebSocket()">Disconnect</button>
+    </div>
+
+    <h2>Live Server Events</h2>
+    <div id="log-container">
+        Waiting for connection...
+    </div>
+
+    <script src="websocket_client.js"></script>
+</body>
+
+</html>

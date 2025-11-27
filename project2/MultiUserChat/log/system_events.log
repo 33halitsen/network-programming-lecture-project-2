@@ -1,0 +1,231 @@
+[2025-11-18 14:46:09] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-18 14:46:28] [CONNECT]: Attempting connection from 127.0.0.1:58197
+[2025-11-18 14:46:36] [REGISTER]: New user halit registered and logged in from 127.0.0.1
+[2025-11-18 14:47:08] [CONNECT]: Attempting connection from 127.0.0.1:58199
+[2025-11-18 14:47:21] [REGISTER]: New user bassar registered and logged in from 127.0.0.1
+[2025-11-18 14:50:47] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-18 14:50:52] [CONNECT]: Attempting connection from 127.0.0.1:61223
+[2025-11-18 14:50:56] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-18 15:07:26] [DISCONNECT]: User halit disconnected.
+[2025-11-18 15:08:02] [SERVER]: Server shutting down...
+[2025-11-18 15:08:32] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-18 15:08:37] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-18 15:08:48] [CONNECT]: Attempting connection from 127.0.0.1:57501
+[2025-11-18 15:09:15] [AUTH_ERROR]: Authentication processing error: [WinError 10054] Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı
+[2025-11-18 15:38:47] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-18 15:41:05] [CONNECT]: Attempting connection from 127.0.0.1:54369
+[2025-11-18 15:41:10] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-18 15:41:41] [CONNECT]: Attempting connection from 127.0.0.1:54371
+[2025-11-18 15:41:50] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-18 16:02:43] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-18 16:02:58] [SERVER]: Server shutting down...
+[2025-11-18 16:03:05] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-18 16:03:20] [CRITICAL]: Server error: [Errno 48] Address already in use
+[2025-11-18 16:03:20] [SERVER]: Server shutting down...
+[2025-11-18 16:12:56] [SERVER]: Server shutting down...
+[2025-11-18 16:13:05] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-18 16:13:57] [CONNECT]: Attempting connection from 127.0.0.1:57836
+[2025-11-18 16:14:02] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-18 16:14:26] [CONNECT]: Attempting connection from 127.0.0.1:57837
+[2025-11-18 16:14:35] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-18 17:13:50] [DISCONNECT]: User halit disconnected.
+[2025-11-18 17:13:52] [DISCONNECT]: User bassar disconnected.
+[2025-11-18 17:14:02] [CONNECT]: Attempting connection from 127.0.0.1:58116
+[2025-11-18 17:14:10] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-18 17:14:15] [CONNECT]: Attempting connection from 127.0.0.1:58118
+[2025-11-18 17:14:20] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-18 17:14:54] [DISCONNECT]: User halit disconnected.
+[2025-11-18 17:14:55] [DISCONNECT]: User bassar disconnected.
+[2025-11-18 17:14:58] [SERVER]: Server shutting down...
+[2025-11-18 17:15:01] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-18 17:15:02] [SERVER]: Server shutting down...
+[2025-11-18 17:15:50] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-18 17:16:09] [CONNECT]: Attempting connection from 127.0.0.1:58125
+[2025-11-18 17:16:14] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-18 17:16:20] [CONNECT]: Attempting connection from 127.0.0.1:58128
+[2025-11-18 17:16:24] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-18 17:33:00] [DISCONNECT]: User halit disconnected.
+[2025-11-18 17:33:02] [DISCONNECT]: User bassar disconnected.
+[2025-11-18 17:33:05] [CONNECT]: Attempting connection from 127.0.0.1:58164
+[2025-11-18 17:33:10] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-18 17:33:15] [CONNECT]: Attempting connection from 127.0.0.1:58166
+[2025-11-18 17:33:18] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-18 17:33:33] [DISCONNECT]: User bassar disconnected.
+[2025-11-18 17:33:35] [DISCONNECT]: User halit disconnected.
+[2025-11-18 17:33:39] [CONNECT]: Attempting connection from 127.0.0.1:58168
+[2025-11-18 17:33:44] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-18 17:33:47] [CONNECT]: Attempting connection from 127.0.0.1:58170
+[2025-11-18 17:33:55] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-18 17:34:21] [DISCONNECT]: User bassar disconnected.
+[2025-11-18 17:34:22] [DISCONNECT]: User halit disconnected.
+[2025-11-18 17:34:23] [SERVER]: Server shutting down...
+[2025-11-18 17:50:59] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-18 17:51:04] [CONNECT]: Attempting connection from 127.0.0.1:58238
+[2025-11-18 17:51:09] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-18 17:53:24] [DISCONNECT]: User halit disconnected.
+[2025-11-18 17:53:24] [CONNECT]: Attempting connection from 127.0.0.1:58240
+[2025-11-18 17:53:24] [ERROR]: Failed to send data to None: [Errno 32] Broken pipe
+[2025-11-18 17:53:24] [CONNECT]: Attempting connection from 127.0.0.1:58242
+[2025-11-18 17:53:40] [CONNECT]: Attempting connection from 127.0.0.1:58250
+[2025-11-18 17:53:42] [SERVER]: Server shutting down...
+[2025-11-18 17:54:09] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-18 17:54:10] [CONNECT]: Attempting connection from 127.0.0.1:58254
+[2025-11-18 17:54:11] [CONNECT]: Attempting connection from 127.0.0.1:58256
+[2025-11-18 17:54:15] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-18 17:54:23] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-18 17:54:34] [DISCONNECT]: User bassar disconnected.
+[2025-11-18 17:54:35] [DISCONNECT]: User halit disconnected.
+[2025-11-18 17:54:36] [SERVER]: Server shutting down...
+[2025-11-18 18:03:06] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-18 18:03:10] [CONNECT]: Attempting connection from 127.0.0.1:58287
+[2025-11-18 18:03:15] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-18 18:04:01] [CONNECT]: Attempting connection from 127.0.0.1:58289
+[2025-11-18 18:04:10] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-18 18:04:12] [PUBLIC_MSG]: <bassar>: aigıej
+[2025-11-18 18:04:15] [PUBLIC_MSG]: <bassar>: eiaıjv
+[2025-11-18 18:04:16] [PUBLIC_MSG]: <bassar>: ieakj
+[2025-11-18 18:04:20] [PUBLIC_MSG]: <halit>: waegstv
+[2025-11-18 18:05:09] [DISCONNECT]: User halit disconnected.
+[2025-11-18 18:05:14] [CONNECT]: Attempting connection from 127.0.0.1:58292
+[2025-11-18 18:05:18] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-18 23:00:26] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-18 23:00:34] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-18 23:01:02] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-18 23:01:26] [CONNECT]: Attempting connection from 127.0.0.1:58605
+[2025-11-18 23:01:34] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-18 23:02:19] [CONNECT]: Attempting connection from 127.0.0.1:58607
+[2025-11-18 23:02:26] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-18 23:14:48] [SERVER]: Server shutting down...
+[2025-11-18 23:14:48] [ERROR]: Client handler error (bassar): [Errno 9] Bad file descriptor
+[2025-11-18 23:14:48] [DISCONNECT]: User bassar disconnected.
+[2025-11-18 23:14:48] [ERROR]: Client handler error (halit): [Errno 9] Bad file descriptor
+[2025-11-18 23:14:48] [DISCONNECT]: User halit disconnected.
+[2025-11-18 23:14:53] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-18 23:14:56] [CONNECT]: Attempting connection from 127.0.0.1:58635
+[2025-11-18 23:15:02] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-18 23:18:37] [DISCONNECT]: User halit disconnected.
+[2025-11-18 23:18:39] [SERVER]: Server shutting down...
+[2025-11-18 23:18:41] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-18 23:18:43] [CONNECT]: Attempting connection from 127.0.0.1:58647
+[2025-11-18 23:18:48] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-18 23:18:58] [CONNECT]: Attempting connection from 127.0.0.1:58649
+[2025-11-18 23:19:13] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-18 23:19:57] [PUBLIC_MSG]: <bassar>: hello
+[2025-11-18 23:20:33] [SERVER]: Server shutting down...
+[2025-11-18 23:20:33] [ERROR]: Client handler error (bassar): [Errno 9] Bad file descriptor
+[2025-11-18 23:20:33] [ERROR]: Client handler error (halit): [Errno 9] Bad file descriptor
+[2025-11-18 23:20:33] [DISCONNECT]: User bassar disconnected.
+[2025-11-18 23:20:33] [DISCONNECT]: User halit disconnected.
+[2025-11-19 18:25:15] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-19 18:25:21] [CONNECT]: Attempting connection from 127.0.0.1:59290
+[2025-11-19 18:25:27] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-19 18:25:41] [DISCONNECT]: Client halit removed from active list.
+[2025-11-19 18:25:41] [DISCONNECT]: User halit disconnected.
+[2025-11-19 18:25:51] [CONNECT]: Attempting connection from 127.0.0.1:59292
+[2025-11-19 18:25:57] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-19 18:26:12] [CONNECT]: Attempting connection from 127.0.0.1:59294
+[2025-11-19 18:26:20] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-19 18:26:26] [DISCONNECT]: User halit disconnected.
+[2025-11-19 18:31:12] [SERVER]: Server shutting down...
+[2025-11-19 18:31:12] [ERROR]: Client handler error (bassar): [Errno 9] Bad file descriptor
+[2025-11-19 18:31:12] [DISCONNECT]: Client bassar removed from active list.
+[2025-11-19 18:31:12] [DISCONNECT]: User bassar disconnected.
+[2025-11-19 18:31:23] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-19 18:31:26] [CONNECT]: Attempting connection from 127.0.0.1:59308
+[2025-11-19 18:31:30] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-19 18:31:39] [CONNECT]: Attempting connection from 127.0.0.1:59310
+[2025-11-19 18:31:45] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-19 18:33:57] [SERVER]: Server shutting down...
+[2025-11-19 18:33:57] [DISCONNECT]: Client halit removed from active list.
+[2025-11-19 18:33:57] [ERROR]: Client handler error (halit): [Errno 9] Bad file descriptor
+[2025-11-19 18:33:57] [ERROR]: Client handler error (bassar): [Errno 9] Bad file descriptor
+[2025-11-19 18:33:57] [DISCONNECT]: User bassar disconnected.
+[2025-11-19 18:33:57] [DISCONNECT]: User halit disconnected.
+[2025-11-19 18:33:57] [DISCONNECT]: Client bassar removed from active list.
+[2025-11-19 18:34:07] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-19 18:34:11] [CONNECT]: Attempting connection from 127.0.0.1:59318
+[2025-11-19 18:34:15] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-19 18:34:37] [CONNECT]: Attempting connection from 127.0.0.1:59320
+[2025-11-19 18:34:49] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-19 18:35:19] [PUBLIC_MSG]: <halit>: hello
+[2025-11-19 18:35:29] [DISCONNECT]: User halit disconnected.
+[2025-11-19 18:35:51] [CONNECT]: Attempting connection from 127.0.0.1:59322
+[2025-11-19 18:37:32] [CONNECT]: Attempting connection from 127.0.0.1:59324
+[2025-11-19 18:45:47] [SERVER]: Server shutting down...
+[2025-11-19 18:45:47] [ERROR]: Client handler error (bassar): [Errno 9] Bad file descriptor
+[2025-11-19 18:45:47] [ERROR]: Failed to send data to halit: [Errno 32] Broken pipe
+[2025-11-19 18:45:47] [DISCONNECT]: User bassar disconnected.
+[2025-11-19 18:45:47] [ERROR]: Failed to send data to halit: [Errno 32] Broken pipe
+[2025-11-19 18:45:47] [ERROR]: Failed to send data to halit: [Errno 32] Broken pipe
+[2025-11-19 18:45:47] [DISCONNECT]: Client bassar removed from active list.
+[2025-11-19 18:45:52] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-19 18:45:55] [CONNECT]: Attempting connection from 127.0.0.1:59356
+[2025-11-19 18:45:58] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-19 18:46:03] [CONNECT]: Attempting connection from 127.0.0.1:59358
+[2025-11-19 18:46:08] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-19 18:46:17] [PUBLIC_MSG]: <halit>: hello
+[2025-11-19 18:46:54] [PUBLIC_MSG]: <bassar>: ,
+[2025-11-19 18:46:58] [PUBLIC_MSG]: <bassar>: hello
+[2025-11-19 18:47:12] [DISCONNECT]: Client bassar removed from active list.
+[2025-11-19 18:47:12] [DISCONNECT]: User bassar disconnected.
+[2025-11-19 18:47:16] [CONNECT]: Attempting connection from 127.0.0.1:59360
+[2025-11-19 18:47:26] [SERVER]: Server shutting down...
+[2025-11-19 18:47:26] [ERROR]: Client handler error (halit): [Errno 9] Bad file descriptor
+[2025-11-19 18:47:26] [DISCONNECT]: Client halit removed from active list.
+[2025-11-19 18:47:26] [DISCONNECT]: User halit disconnected.
+[2025-11-20 11:36:34] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-20 11:36:45] [CONNECT]: Attempting connection from 127.0.0.1:60414
+[2025-11-20 11:36:52] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-20 11:36:58] [PUBLIC_MSG]: <halit>: hello
+[2025-11-20 11:37:33] [CONNECT]: Attempting connection from 127.0.0.1:60417
+[2025-11-20 11:37:38] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-20 11:38:14] [PUBLIC_MSG]: <bassar>: d
+[2025-11-20 11:38:15] [PUBLIC_MSG]: <bassar>: d
+[2025-11-20 11:38:15] [PUBLIC_MSG]: <bassar>: d
+[2025-11-20 11:38:15] [PUBLIC_MSG]: <bassar>: d
+[2025-11-20 11:38:15] [PUBLIC_MSG]: <bassar>: d
+[2025-11-20 11:38:33] [PUBLIC_MSG]: <bassar>: d
+[2025-11-20 11:38:34] [PUBLIC_MSG]: <bassar>: d
+[2025-11-20 11:38:35] [PUBLIC_MSG]: <bassar>: d
+[2025-11-20 11:38:35] [PUBLIC_MSG]: <bassar>: d
+[2025-11-20 11:38:36] [PUBLIC_MSG]: <bassar>: d
+[2025-11-20 11:38:42] [PUBLIC_MSG]: <bassar>: d
+[2025-11-20 11:38:43] [PUBLIC_MSG]: <bassar>: d
+[2025-11-20 11:38:45] [PUBLIC_MSG]: <bassar>: d
+[2025-11-20 11:38:46] [PUBLIC_MSG]: <bassar>: d
+[2025-11-20 11:38:47] [PUBLIC_MSG]: <bassar>: d
+[2025-11-20 11:38:48] [PUBLIC_MSG]: <bassar>: d
+[2025-11-20 11:38:48] [PUBLIC_MSG]: <bassar>: d
+[2025-11-20 11:43:13] [SERVER]: Server shutting down...
+[2025-11-20 11:43:13] [ERROR]: Client handler error (halit): [Errno 9] Bad file descriptor
+[2025-11-20 11:43:13] [DISCONNECT]: User halit disconnected.
+[2025-11-20 11:43:13] [DISCONNECT]: Client halit removed from active list.
+[2025-11-20 11:43:13] [ERROR]: Client handler error (bassar): [Errno 9] Bad file descriptor
+[2025-11-20 11:43:14] [DISCONNECT]: Client bassar removed from active list.
+[2025-11-20 11:43:14] [DISCONNECT]: User bassar disconnected.
+[2025-11-20 12:10:37] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-20 12:10:39] [WEB]: HTTP Server listening on port 8000
+[2025-11-20 12:10:39] [CRITICAL_WEB]: Web Server initialization error: 'Serve' object has no attribute 'serve_forever'
+[2025-11-20 12:14:21] [CONNECT]: Attempting connection from 127.0.0.1:60520
+[2025-11-20 12:14:27] [LOGIN]: User halit logged in from 127.0.0.1
+[2025-11-20 12:14:30] [PUBLIC_MSG]: <halit>: hello
+[2025-11-20 12:14:47] [CONNECT]: Attempting connection from 127.0.0.1:60521
+[2025-11-20 12:14:53] [LOGIN]: User bassar logged in from 127.0.0.1
+[2025-11-20 12:14:58] [PUBLIC_MSG]: <bassar>: hello
+[2025-11-20 12:15:20] [PUBLIC_MSG]: <halit>: clear
+[2025-11-20 12:22:32] [DISCONNECT]: Client bassar removed from active list.
+[2025-11-20 12:22:32] [DISCONNECT]: User bassar disconnected.
+[2025-11-20 12:25:43] [SERVER]: Server shutting down...
+[2025-11-20 12:25:43] [ERROR]: Client handler error (halit): [Errno 9] Bad file descriptor
+[2025-11-20 12:25:43] [DISCONNECT]: Client halit removed from active list.
+[2025-11-20 12:25:43] [DISCONNECT]: User halit disconnected.
+[2025-11-20 12:25:51] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-20 12:25:51] [WEB]: HTTP Server listening on port 8000
+[2025-11-20 12:25:51] [CRITICAL_WEB]: Web Server initialization error: 'Serve' object has no attribute 'serve_forever'
+[2025-11-20 12:26:20] [SERVER]: Server shutting down...
+[2025-11-20 12:28:53] [SERVER]: Server listening on 0.0.0.0:9999
+[2025-11-20 12:28:53] [WEB]: HTTP Server listening on port 8000
+[2025-11-20 12:28:53] [CRITICAL_WEB]: Web Server initialization error: 'Serve' object has no attribute 'serve_forever'
+[2025-11-20 12:29:07] [SERVER]: Server shutting down...
+[2025-11-21 10:18:48] [WEB]: WebSocket Server starting on port 8001
+[2025-11-21 10:27:32] [CRITICAL_WEB]: Async Loop error: Event loop stopped before Future completed.
